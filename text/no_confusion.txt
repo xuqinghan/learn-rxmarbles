@@ -1,0 +1,5 @@
+marble no_confusion
+{
+    source a: +-a   -b   -c   -d   -e   -|
+    source b: +-(Aa)-(Ab)-(Ac)-(Ad)-(Ae)-|
+}

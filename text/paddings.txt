@@ -1,0 +1,6 @@
+marble paddings
+{
+    source foo: +-1-2-|
+    source bar: ...+-3-4-|
+    source dog: .....+-5-6-|
+}

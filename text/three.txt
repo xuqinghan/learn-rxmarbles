@@ -1,0 +1,6 @@
+marble three
+{
+    source foo: +-A--B-C----D--E->  
+    source bar: +-123-> 
+    source dog: +a-b-c-d->  
+}
