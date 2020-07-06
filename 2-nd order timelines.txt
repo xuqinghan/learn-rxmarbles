@@ -1,0 +1,9 @@
+marble nested
+{
+    source a:
+            {
+                +-a-b-c-|               // first inner timeline
+                .....+-x-y-z-|          // second inner timeline
+                ...........+-1-2-3-|    // third inner timeline
+            }   
+}

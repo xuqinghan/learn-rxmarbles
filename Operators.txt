@@ -1,0 +1,5 @@
+marble exampleOperator
+{
+    source foo:                 +-1-2-3-|
+    operator myTransformation:  +-A-B-C-|
+}
